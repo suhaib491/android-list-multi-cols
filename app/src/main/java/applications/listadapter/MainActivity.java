@@ -9,12 +9,11 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-//George
-    //Suhaib
+
     EditText etFirstName,etLastName,etFavFood;
     Button btnAdd,btnView;
     DatabaseHelper myDB;
-
+ //Abd
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
